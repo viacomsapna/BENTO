@@ -11,10 +11,6 @@
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"demdexEnabled" : "true",
-		"TVEEnabled" : "true",
-		"TVERequestorID" : "NICK",
-		"TVEChannelID" : "NICK",
-		"TVEBrand" : "nick",
-		"TVEEnvironment" : "development"
+		"TVEEnabled" : "true"
 	}
 ]
