@@ -4,4 +4,9 @@
  * and open the template in the editor.
  */
 
-
+[
+    {
+        "testdata" : "sampledata",
+        "testdate" : "sampledate"
+    }
+];
