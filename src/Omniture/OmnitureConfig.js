@@ -13,4 +13,4 @@
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true"
 	}
-]
+];

@@ -17,4 +17,4 @@
 		"TVEBrand" : "nick",
 		"TVEEnvironment" : "development"
 	}
-]
+];
