@@ -7,4 +7,4 @@
                 "prop4"    : "value of prop 4",
                 "eVar5"    : "evar 5 value"
 	}
-]
+];

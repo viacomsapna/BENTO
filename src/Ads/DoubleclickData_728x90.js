@@ -1,5 +1,5 @@
 [
-{
-"doubleclickAdSize":"728x90"
-}
-]
+    {
+        "doubleclickAdSize":"728x90"
+    }
+];
