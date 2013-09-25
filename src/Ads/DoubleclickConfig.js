@@ -2,7 +2,12 @@
     {
         "doubleclickEnabled":"true",
         "doubleclickDartSite":"android_test_app",
-        "doubleclickKeyValues":"",
+        "doubleclickKeyValues":"sample key values",
         "doubleclickUseExternalBrowser":"false"
     }
 ];
+
+
+/*
+ * doubleClickStaticAdIsCoppaCompliant;
+ */
