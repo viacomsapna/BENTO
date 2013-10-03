@@ -2,7 +2,7 @@
     {
         "doubleclickEnabled":"true",
         "doubleclickDartSite":"android_test_app",
-        "doubleclickKeyValues":"sample key values",
+        "doubleclickKeyValues":"klim=test_klim",
         "doubleclickUseExternalBrowser":"false"
     }
 ];
