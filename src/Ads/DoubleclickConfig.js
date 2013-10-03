@@ -1,8 +1,8 @@
 [
     {
         "doubleclickEnabled":"true",
-        "doubleclickDartSite":"klim_test",
-        "doubleclickKeyValues":"klim=test_klim",
+        "doubleclickDartSite":"android_test_app",
+        "doubleclickKeyValues":"klim_test",
         "doubleclickUseExternalBrowser":"false"
     }
 ];
