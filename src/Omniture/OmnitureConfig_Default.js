@@ -10,6 +10,6 @@
 		"omnitureTrackingServer" : "sc.mtv.com",
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
-                "demdexEnabled" : "true"
+                "demdexEnabled" : "false"
      }
 ];
