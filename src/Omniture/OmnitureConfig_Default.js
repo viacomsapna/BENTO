@@ -3,7 +3,7 @@
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "bento android test channel",
-		"omnitureCharSet" : "UTF-8",
+		"omnitureCharSet" : "",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
