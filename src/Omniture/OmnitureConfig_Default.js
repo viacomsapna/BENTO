@@ -1,8 +1,8 @@
 [
     {
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "",
-		"omnitureChannel" : "Bento TestRig Channel",
+		"omnitureSuite"   : "viarnd",
+		"omnitureChannel" : "",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
