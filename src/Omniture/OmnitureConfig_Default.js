@@ -5,10 +5,10 @@
 		"omnitureChannel" : "Bento TestRig Channel",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
-		"omnitureSSL" : "false",
+		"omnitureSSL" : "true",
 		"omnitureLifecycleSessionTimeout" : "300",
-		"omnitureTrackingServer" : "sc.mtv.com",
-		"omnitureVisitorID" : "",
+		"omnitureTrackingServer" : "test.mtv.com",
+		"omnitureVisitorID" : "145215sfg4df5gdfgd5gd5f",
 		"omnitureDebugLogging" : "true",
                 "demdexEnabled" : "true"
      }
