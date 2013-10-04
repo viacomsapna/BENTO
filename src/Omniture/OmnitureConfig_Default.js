@@ -1,7 +1,7 @@
 [
     {
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "viarnd",
+		"omnitureSuite"   : "klim_test",
 		"omnitureChannel" : "bento android test channel",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
