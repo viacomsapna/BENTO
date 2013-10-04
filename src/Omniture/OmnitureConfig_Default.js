@@ -1,6 +1,6 @@
 [
     {
-		"omnitureEnabled" : "true",
+		"omnitureEnabled" : "",
 		"omnitureSuite"   : "test",
 		"omnitureChannel" : "Bento TestRig Channel",
 		"omnitureCharSet" : "ISO-8859-1",
