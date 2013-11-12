@@ -1,6 +1,6 @@
 [
 	{
-		"omnitureEnabled" : "true",
+	    "omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "Bento TestRig Channel",
 		"omnitureCharSet" : "ISO-8859-1",
@@ -9,6 +9,9 @@
 		"omnitureLifecycleSessionTimeout" : "300",
 		"omnitureTrackingServer" : "sc.mtv.com",
 		"omnitureVisitorID" : "",
-		"omnitureDebugLogging" : "true" 
+		"omnitureDebugLogging" : "true",
+		"omnitureOfflineTrackingEnabled" : "true",
+        "omnitureOfflineHitLimit" : "20"
+
     	}
 ];
