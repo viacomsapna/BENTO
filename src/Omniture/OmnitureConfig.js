@@ -1,6 +1,6 @@
 [
 	{
-	    "omnitureEnabled" : "true",
+		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "Bento TestRig Channel",
 		"omnitureCharSet" : "ISO-8859-1",
@@ -11,7 +11,7 @@
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
-        "omnitureOfflineHitLimit" : "20"
+		"omnitureOfflineHitLimit" : "20"
 
     	}
 ];
