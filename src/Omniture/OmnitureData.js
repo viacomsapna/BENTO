@@ -3,8 +3,11 @@
 		"pageName" : "test/bento/testrig",
 		"linkName" : "test/bento/link",
 		"prop1"    : "value of prop 1",
-		"eVar1"    : "value of evar 1",
-        "prop4"    : "value of prop 4",
-        "eVar5"    : "evar 5 value"
+		"prop15"   : "value of prop 15",
+		"prop115"  : "value of prop 115",
+		"eVar1"    : "value of var 1",
+		"eVar16"   : "value of var 16",
+		"eVar116"  : "value of var 116"
+
 	}
 ];
