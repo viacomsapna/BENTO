@@ -10,13 +10,7 @@
 		"omnitureTrackingServer" : "sc.mtv.com",
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
-<<<<<<< HEAD
 		"omnitureOfflineTrackingEnabled" : "false",
-        "omnitureOfflineHitLimit" : "2"
-=======
-		"omnitureOfflineTrackingEnabled" : "true",
 		"omnitureOfflineHitLimit" : "20"
->>>>>>> 257983295d15af58b9ef9b5ae820468c1c20fc0e
-
     	}
 ];
