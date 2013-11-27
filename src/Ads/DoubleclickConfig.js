@@ -4,6 +4,6 @@
         "doubleclickDartSite":"android_test_app",
         "doubleclickKeyValues":"test=klim_test",
         "doubleclickUseExternalBrowser":"false",
-        "doubleClickStaticAdIsCoppaCompliant":"false"
+        "doubleClickStaticAdIsCoppaCompliant":"true"
     }
 ];
