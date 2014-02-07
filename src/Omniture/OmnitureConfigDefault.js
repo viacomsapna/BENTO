@@ -1,14 +1,14 @@
 [
     {
         "omnitureEnabled" : "true",
-        "omnitureSuite"   : "viarnd",
-        "omnitureChannel" : "Bento TestRig Channel",
+        "omnitureSuite"   : "viarndtest",
+        "omnitureChannel" : "Bento TestRig Channel test",
         "omnitureCharSet" : "ISO-8859-1",
         "omnitureCurrencyCode" : "USD",
         "omnitureSSL" : "false",
         "omnitureLifecycleSessionTimeout" : "300",
-        "omnitureTrackingServer" : "sc.mtv.com",
-        "omnitureVisitorID" : "",
+        "omnitureTrackingServer" : "test.mtv.com",
+        "omnitureVisitorID" : "test_id",
         "omnitureDebugLogging" : "true",
         "omnitureOfflineTrackingEnabled" : "true",
         "demdexEnabled" : "true",
