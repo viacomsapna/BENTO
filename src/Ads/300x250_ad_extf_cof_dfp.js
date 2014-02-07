@@ -4,9 +4,9 @@
         "doubleClickStaticAdAppId":"android_test_app",
         "doubleclickKeyValues":"",
         "doubleclickUseExternalBrowser":false,
-        "doubleClickStaticAdIsCoppaCompliant":true,
-        "doubleclickAdSize":"728x90",
-        "doubleclickIsDfp":false,
+        "doubleClickStaticAdIsCoppaCompliant":false,
+        "doubleclickAdSize":"300x250",
+        "doubleclickIsDfp":true,
         "doubleclickDfpData":
         {
             "metadata": {
