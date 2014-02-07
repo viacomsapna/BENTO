@@ -8,7 +8,7 @@
         "omnitureSSL" : "false",
         "omnitureLifecycleSessionTimeout" : "300",
         "omnitureTrackingServer" : "test.mtv.com",
-        "omnitureVisitorID" : "test_id",
+        "omnitureVisitorID" : "",
         "omnitureDebugLogging" : "true",
         "omnitureOfflineTrackingEnabled" : "true",
         "demdexEnabled" : "true",
