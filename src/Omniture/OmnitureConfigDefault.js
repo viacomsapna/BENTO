@@ -6,7 +6,7 @@
         "omnitureCharSet" : "ISO-8859-1",
         "omnitureCurrencyCode" : "USD",
         "omnitureSSL" : "false",
-        "omnitureLifecycleSessionTimeout" : "300",
+        "omnitureLifecycleSessionTimeout" : "3000",
         "omnitureTrackingServer" : "sc.mtv.com",
         "omnitureVisitorID" : "",
         "omnitureDebugLogging" : "true",

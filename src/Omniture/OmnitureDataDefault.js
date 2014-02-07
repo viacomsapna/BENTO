@@ -10,7 +10,8 @@
         "eVar111"    : "value of evar 111",
         "prop74"    : "value of prop 74",
         "eVar74"    : "value of evar 74",
-        "prop76"    : "value of prop 76",
-        "eVar76"    : "value of evar 76"
+        "prop75"    : "value of prop 75",
+        "eVar75"    : "value of evar 75"
+        "eVar75"    : "value of evar 75"
     }
 ]
