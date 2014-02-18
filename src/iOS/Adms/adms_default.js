@@ -25,6 +25,10 @@
         "eVar74"    : "remote value of evar 74",
         "eVar111"    : "remote value of evar 111",
         "eVar300"    : "remote value of evar 300",
-        "channel"  : "remote sandbox channel"
+        "channel"  : "remote sandbox channel",
+        "contextData"   : {
+            "contextDataKey1"    : "testcontextvalue1",
+            "contextDataKey2"    : "testcontextvalue2"
+        }
     }
 ]
