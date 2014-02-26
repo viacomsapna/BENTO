@@ -2,7 +2,7 @@
     {
         "doubleclickEnabled":true,
         "doubleClickStaticAdAppId":"android_test_app",
-        "doubleclickKeyValues": {"keyvalue" : "testkeyvalue"},
+        "doubleclickKeyValues": "keyvalue=testkeyvalue;testkey=testvalue",
         "doubleclickUseExternalBrowser":false,
         "doubleClickStaticAdIsCoppaCompliant":true,
         "doubleclickAdSize":"728x90",
