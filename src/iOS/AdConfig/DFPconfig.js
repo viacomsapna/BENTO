@@ -1,41 +1,35 @@
 [
-	{
-		"config" : {
-			"isCoppaCompliant" : true
-		},
-		"adData" : {
-			"x" : 0,
-			"y"   : 0,
-			"width" : 728,
-			"height" : 90,
-			"appName" : "btg_test_app",
-			"sections" : "",
-			"isDFP" : true,
-			"enableCloseButton" : true,
-			"closeButtonInterval" : 5,
-			"isRefreshable" : false,
-			"refreshInterval" : 10,
-			"keyValues" : {
-				"!category" : "v1.2.3",
-				"ver"   : "v1.2.3",
-				"testmodePrefix" : "celtra_mraid"
-			},
-			"keychainKeyValues" : {
-				"aamSegments" : ""
-			},
-			"dfpData" : {
-				"metadata" : {
-					"property" : "mtv_news",
-					"hub" : "breaking",
-					"is_main" : true
-				},
-				"mappings" : {
-					"ad-unit" : {
-						"1" : "@property",
-						"2" : "@hub"
-					}
-				}		        	
-			}
-		}
-	}
+    {
+        "doubleclickEnabled":true,
+        "doubleClickStaticAdAppId":"android_test_app",
+        "doubleclickKeyValues":"",
+        "doubleclickUseExternalBrowser":false,
+        "doubleClickStaticAdIsCoppaCompliant":true,
+        "doubleclickAdSize":"300x250",
+        "doubleclickIsDfp":true,
+        "doubleclickDfpData":
+        {
+            "metadata": {
+                "property": "mtv",
+                "hub": "shows",
+                "franchise": "Teen Mom 2",
+                "section": "full-episodes",
+                "title": "A Teen Mom Gets Pregnant.",
+                "is_main": true,
+                "season": 2,
+                "episode": "202"
+            },
+            "mappings": {
+                "ad-unit": {
+                    "1": "@property"
+                },
+                "key-values": {
+                    "sea": "@season",
+                    "ep": "@episode",
+                    "foo": "bar"
+                }
+            }
+
+        }
+    }
 ]
