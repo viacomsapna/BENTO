@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmodePrefix" : "mediam_mraid"
+				"testmodePrefix" : "celtra_mraid"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
