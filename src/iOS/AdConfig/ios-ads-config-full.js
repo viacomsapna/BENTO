@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmodePrefix" : "mixpo_mraid"
+				"testmodePrefix" : "mediam_mraid"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
