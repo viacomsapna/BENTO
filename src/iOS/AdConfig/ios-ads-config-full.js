@@ -6,8 +6,8 @@
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
-			"width" : 300,
-			"height" : 250,
+			"width" : 728,
+			"height" : 90,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
