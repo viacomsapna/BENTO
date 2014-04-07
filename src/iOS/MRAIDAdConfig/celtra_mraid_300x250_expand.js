@@ -11,9 +11,9 @@
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
-			"enableCloseButton" : true,
+			"enableCloseButton" : false,
 			"closeButtonInterval" : 5,
-			"isRefreshable" : false,
+			"isRefreshable" : true,
 			"refreshInterval" : 10,
 			"keyValues" : {
 				"!category" : "v1.2.3",
