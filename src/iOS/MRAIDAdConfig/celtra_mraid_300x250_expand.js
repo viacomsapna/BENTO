@@ -13,7 +13,7 @@
 			"isDFP" : false,
 			"enableCloseButton" : true,
 			"closeButtonInterval" : 5,
-			"isRefreshable" : true,
+			"isRefreshable" : false,
 			"refreshInterval" : 10,
 			"keyValues" : {
 				"!category" : "v1.2.3",
