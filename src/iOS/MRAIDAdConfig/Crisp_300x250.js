@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmode=crisp_300x50_expandable"
+				"testmode" : "crisp_300x50_expandable"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
