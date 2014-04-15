@@ -6,8 +6,8 @@
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
-			"width" : 728,
-			"height" : 90,
+			"width" : 300,
+			"height" : 250,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmode" : "Viacom_MRAID_728x90_ExpandVideo_Test"
+				"testmode" : "Viacom_MRAID_300x250_ExpandVideo_Test"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
