@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmode" : "Viacom_MRAID_300x250_ExpandVideo_Test"
+				"testmode" : "Viacom_MRAID_728x90_ExpandVideo_Test"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
