@@ -3,7 +3,7 @@
 "doubleclickKeyValues":"",
 "doubleclickAdSize":"300x250",
 "doubleclickIsDfp":false,
-"doubleclickSlotNumber":-1;
+"doubleclickSlotNumber":10;
 "doubleclickDfpData":
 {
     "metadata": {
