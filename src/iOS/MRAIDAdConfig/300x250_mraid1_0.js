@@ -16,8 +16,8 @@
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
 			"keyValues" : {
-				"!category" : "v1.2.3",
-				"ver"   : "v1.2.3",
+				"!category" : "1.0.1",
+				"ver"   : "1.0.1",
 				"testmode" : "yahoo.ads.mraid_expandable"
 			},
 			"keychainKeyValues" : {
