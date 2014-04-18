@@ -6,8 +6,8 @@
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
-			"width" : 728,
-			"height" : 90,
+			"width" : 300,
+			"height" : 250,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "1.0.1",
 				"ver"   : "1.0.1",
-				"testmode" : "celtra_tablet_728x90"
+				"testmode" : "celtra_mobile_300x250"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
