@@ -1,7 +1,7 @@
 [
 	{
 		"config" : {
-			"isCoppaCompliant" : true
+			"isCoppaCompliant" : false
 		},
 		"adData" : {
 			"x" : 0,
@@ -11,14 +11,14 @@
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
-			"enableCloseButton" : true,
+			"enableCloseButton" : false,
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmode" : "crisp_300x250_tablet_expandable"
+				"testmodePrefix" : "celtra_mobile_300x250"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""

@@ -1,24 +1,24 @@
 [
 	{
 		"config" : {
-			"isCoppaCompliant" : false
+			"isCoppaCompliant" : true
 		},
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
-			"width" : 300,
-			"height" : 250,
+			"width" : 728,
+			"height" : 90,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
-			"enableCloseButton" : false,
+			"enableCloseButton" : true,
 			"closeButtonInterval" : 5,
-			"isRefreshable" : false,
+			"isRefreshable" : true,
 			"refreshInterval" : 10,
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmodePrefix" : "celtra_mraid"
+				"testmodePrefix" : "celtra_tablet_728x90"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
