@@ -7,7 +7,7 @@
 			"x" : 0,
 			"y"   : 0,
 			"width" : 300,
-			"height" : 250,
+			"height" : 50,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : false,
@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "1.0.1",
 				"ver"   : "1.0.1",
-				"testmode" : "celtra_mobile_300x250"
+				"testmode" : "celtra_mobile_300x50"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
