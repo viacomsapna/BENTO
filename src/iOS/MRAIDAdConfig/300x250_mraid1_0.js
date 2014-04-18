@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "1.0.1",
 				"ver"   : "1.0.1",
-				"testmode" : "celtra_mobile_728x90"
+				"testmode" : "medialets_mobile_300x50"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
