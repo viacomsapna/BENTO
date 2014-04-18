@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "1.0.1",
 				"ver"   : "1.0.1",
-				"testmode" : "yahoo.ads.mraid_expandable"
+				"testmode" : "celtra_mobile_300x50"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
