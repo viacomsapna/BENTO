@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmodePrefix" : "celtra_mobile_300x250"
+				"testmode" : "celtra_mobile_300x250"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""

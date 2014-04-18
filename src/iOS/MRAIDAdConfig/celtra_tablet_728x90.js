@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmodePrefix" : "celtra_tablet_728x90"
+				"testmode" : "celtra_tablet_728x90"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
