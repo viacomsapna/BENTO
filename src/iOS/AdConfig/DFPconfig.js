@@ -1,7 +1,7 @@
 [
     {
         "doubleclickEnabled":true,
-        "doubleClickStaticAdAppId":"android_test_app",
+        "doubleClickStaticAdAppId":"ios_test_app",
         "doubleclickKeyValues":"",
         "doubleclickUseExternalBrowser":false,
         "doubleClickStaticAdIsCoppaCompliant":true,
