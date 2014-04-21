@@ -24,7 +24,12 @@
             "sea": "@season",
             "ep": "@episode",
             "foo": "bar"
-        }
+        },
+        "settings" : {
+				"reload" 	: true,
+				"reload_interval":	12000
+			}
+
     }
 
 }
