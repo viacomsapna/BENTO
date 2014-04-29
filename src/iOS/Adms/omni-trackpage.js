@@ -3,7 +3,6 @@
 		"pageName" : "dev/bento/remote/testrig",
 		"channel"  : "remote sandbox channel"
 		"prop1"    : "remote value of prop 1",
-        "pageName" : "dev/bento/remote/testrig",
         "prop11"    : "remote value of prop 11",
         "prop74"    : "remote value of prop 74",
         "prop75"    : "remote value of prop 75",
