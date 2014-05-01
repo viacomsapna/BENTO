@@ -8,7 +8,7 @@
 		"prop36"  : "value of prop 36 aka the show information",
 		"eVar1"    : "value of var 1",
 		"eVar16"   : "value of var 16",
-		"eVar116"  : "value of var 116"
-
+		"eVar116"  : "value of var 116",
+		"omnitureContextData" : {"v.dummyContext1":"1","v.dummyContext2":"2"}
 	}
 ];
