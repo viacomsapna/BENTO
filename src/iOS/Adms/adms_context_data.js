@@ -1,19 +1,18 @@
 [
-    {
-        "admsMeasureEnabled" : true,
-        "admsReportSuiteIDs"   : "viarndtest",
-        "omnitureChannel" : "Bento TestRig Channel test",
-        "admsCharacterSet" : "ISO-8859-1",
-        "admsCurrencyCode" : "USD",
-        "admsSslEnabled" : false,
-        "admsLifecycleSessionTimeout" : 300,
-        "admsTrackingServer" : "test.mtv.com",
-        "admsVisitorID" : "",
-        "admsxDebugLoggingEnabled" : true,
-        "admsOfflineTrackingEnabled" : true,
-        "admsContextData"   : {
-            "contextDataKey1"    : "testcontextvalue1",
-            "contextDataKey2"    : "testcontextvalue2"
-        }
-    }
+	{
+		"admsMeasureEnabled" : true,
+		"admsReportSuiteIDs"   : "viarnd",
+		"admsCharacterSet" : "ISO-8859-1",
+		"admsCurrencyCode" : "USD",
+		"admsSslEnabled" : false,
+		"admsLifecycleSessionTimeout" : 300,
+		"admsTrackingServer" : "sc.mtv.com",
+		"admsVisitorID" : "",
+		"admsDebugLoggingEnabled" : true,
+		"admsOfflineTrackingEnabled" : true,
+		"admsContextData"   : {
+			"contextDataKey1"    : "testcontextvalue1",
+			"contextDataKey2"    : "testcontextvalue2"
+		}
+	}
 ]
