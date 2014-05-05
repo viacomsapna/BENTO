@@ -6,11 +6,11 @@
 		"adData" : {
 			"x" : 0,
 			"y"   : 0,
-			"width" : 728,
-			"height" : 90,
+			"width" : 300,
+			"height" : 250,
 			"appName" : "btg_test_app",
 			"sections" : "",
-			"isDFP" : true,
+			"isDFP" : false,
 			"enableCloseButton" : true,
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmodePrefix" : "crisp_mraid"
+				"testmodePrefix" : "celtra_mraid"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
