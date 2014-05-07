@@ -25,14 +25,13 @@
 			},
 			"dfpData" : {
 				"metadata" : {
-					"property" : "mtv_news",
+					"property" : "nick",
 					"hub" : "breaking",
 					"is_main" : true
 				},
 				"mappings" : {
 					"ad-unit" : {
-						"1" : "@property",
-						"2" : "@hub"
+						"1" : "@property"
 					}
 				}		        	
 			}
