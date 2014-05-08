@@ -17,7 +17,7 @@
 			"refreshInterval" : 10,
 			"keyValues" : {
 				"!category" : "v1.2.3",
-				"ver"   : "v1.2.3",
+				"ver"   : "v2.0",
 				"testmode" : "celtra_mobile_300x250"
 			},
 			"keychainKeyValues" : {
