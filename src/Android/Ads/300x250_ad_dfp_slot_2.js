@@ -7,7 +7,7 @@
 "doubleclickDfpData":
 {
     "metadata": {
-        "property": "mtv",
+        "property": "nick",
         "hub": "shows",
         "franchise": "Teen Mom 2",
         "section": "full-episodes",
@@ -24,12 +24,8 @@
             "sea": "@season",
             "ep": "@episode",
             "foo": "bar"
-        },
-        "settings" : {
-				"reload" 	: true,
-				"reload_interval":	12000
-			}
-
+        }
+        
     }
 
 }
