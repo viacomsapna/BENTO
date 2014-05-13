@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmode" : "dap_crisp_mraid_300x50_expand"
+				"testmode" : "dap_celtra_mraid_300x50_expand"
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
