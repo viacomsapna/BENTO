@@ -1,5 +1,6 @@
 [
     {
+        "audienceManagerEnabled": "false",
         "admsMeasureEnabled" : "false",
         "admsReportSuiteIDs"   : "viarndtest",
         "omnitureChannel" : "Bento TestRig Channel test",
