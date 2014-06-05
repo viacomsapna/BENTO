@@ -1,6 +1,6 @@
 [
     {
-        "admsMeasureEnabled" : "true",
+        "admsMeasureEnabled" : "false",
         "admsReportSuiteIDs"   : "viarndtest",
         "omnitureChannel" : "Bento TestRig Channel test",
         "admsCharacterSet" : "ISO-8859-1",
