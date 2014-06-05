@@ -1,7 +1,8 @@
 [
 	{
 		"config" : {
-			"isCoppaCompliant" : false
+			"isCoppaCompliant" : false,
+			"udienceManagerEnabled" : false,
 		},
 		"adData" : {
 			"x" : 0,
