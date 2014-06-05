@@ -1,7 +1,7 @@
 [
     {
         "audienceManagerEnabled": "false",
-        "admsMeasureEnabled" : "false",
+        "admsMeasureEnabled" : "true",
         "admsReportSuiteIDs"   : "viarndtest",
         "omnitureChannel" : "Bento TestRig Channel test",
         "admsCharacterSet" : "ISO-8859-1",
