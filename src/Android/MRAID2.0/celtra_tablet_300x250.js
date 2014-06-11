@@ -2,7 +2,7 @@
 {
 "doubleclickKeyValues":"testmode=celtra_tablet_300x250",
 "doubleclickAdSize":"300x250",
-"doubleclickIsDfp":false,
+"doubleclickIsDfp":true,
 "doubleclickDfpData":
 {
     "metadata": {
