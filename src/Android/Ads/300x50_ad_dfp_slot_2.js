@@ -30,6 +30,6 @@
         "reload"  : true,
         "reload_interval":    30000
        }    
-}
+
 }
 ]
