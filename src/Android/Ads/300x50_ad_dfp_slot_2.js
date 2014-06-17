@@ -24,7 +24,7 @@
             "sea": "@season",
             "ep": "@episode",
             "foo": "bar"
-        },
+        }
     },
       "settings" : {
         "reload"  : true,
