@@ -16,8 +16,8 @@
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
 			"keyValues" : {
-				"!category" : "v1.2.35",
-				"ver"   : "v1.2.35",
+				"!category" : "v1.2.3",
+				"ver"   : "v1.2.3",
 				"testmodePrefix" : "celtra_mraid"
 			},
 			"keychainKeyValues" : {
