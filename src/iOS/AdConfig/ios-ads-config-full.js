@@ -10,7 +10,7 @@
 			"height" : 250,
 			"appName" : "btg_test_app",
 			"sections" : "",
-			"isDFP" : false,
+			"isDFP" : true,
 			"enableCloseButton" : true,
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
@@ -18,7 +18,7 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmodePrefix" : "celtra_mraid"
+				"testmodePrefix" : ""
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
