@@ -5,7 +5,7 @@
         "doubleclickUseExternalBrowser": true,
         "doubleClickStaticAdIsCoppaCompliant":false,
         "doubleClickAdIndicatorVisible":true,
-		"doubleClickUseBumper":true
+	"doubleClickUseBumper":true
         
     }
 ]
