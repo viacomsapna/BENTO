@@ -13,7 +13,6 @@
         "omnitureOfflineTrackingEnabled" : "true",
         "omnitureOfflineHitLimit" : "200",
         "demdexEnabled" : "true",
-        "TVEEnabled" : "true",
-        "omnitureContextData" : {"v.dummyContext1":"Klim Test Data","v.dummyContext2":"Klim_test_data"}
-    }
+        "TVEEnabled" : "true"
+    } 
 ]
