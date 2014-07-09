@@ -9,6 +9,6 @@
 		"eVar1"    : "value of var 1",
 		"eVar16"   : "value of var 16",
 		"eVar116"  : "value of var 116",
-		"omnitureContextData" : {"v.dummyContext1":"1","v.dummyContext2":"2"}
+		"omnitureContextData" : {"v.dummyContext11":"11","v.dummyContext22":"22"}
 	}
 ];
