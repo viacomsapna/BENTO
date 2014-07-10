@@ -14,6 +14,6 @@
         "omnitureOfflineHitLimit" : "200",
         "demdexEnabled" : "true",
         "TVEEnabled" : "true",
-        "omnitureContextData" : {"v.dummyContext1":"Klim Test Data","v.dummyContext2":"Klim_test_data"}
+        "omnitureContextData" : {"v.dummyContext1":"Klim Test Data","v.dummyContext2":"Klim_test_data", "dummyContext12":"app12","nick.game": "app1"}
     } 
 ]
