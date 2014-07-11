@@ -9,6 +9,6 @@
 		"eVar1"    : "value of var 1 data file",
 		"eVar16"   : "value of var 16 data file",
 		"eVar116"  : "value of var 116 data file",
-		"omnitureContextData" : {"v.dummyContext11":"11","v.dummyContext22":"22", "dummyContext12":"12","nick.game": "val1"}
+		"omnitureContextData" : {"v.dummyContext11":"11","v.dummyContext22":"22", "dummyContext12":"12","nick.gamedata": "val1"}
 	}
 ];
