@@ -1,6 +1,6 @@
 [
 	{
-		"admsMeasureEnabled" : false,
+		"admsMeasureEnabled" : true,
 		"admsReportSuiteIDs"   : "viarnd",
 		"tveEnabled" : true,
 		"tveContextData" : {
