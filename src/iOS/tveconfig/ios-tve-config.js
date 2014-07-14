@@ -2,7 +2,7 @@
 	{
 		"admsMeasureEnabled" : true,
 		"admsReportSuiteIDs"   : "viarnd",
-		"tveEnabled" : false,
+		"tveEnabled" : true,
 		"tveContextData" : {
 			"TVEContextDataSignInStartPageName" : "test_rig_sign_in_start",
 			"TVEContextDataProviderLoadedPageName" : "test_rig_provider_loaded",
