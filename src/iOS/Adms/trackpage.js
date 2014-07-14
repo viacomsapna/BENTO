@@ -17,7 +17,9 @@
         "channel"  : "remote sandbox channel",
         "contextData"   : {
             "contextDataKey1"    : "testcontextvalue1",
-            "contextDataKey2"    : "testcontextvalue2"
+            "contextDataKey2"    : "testcontextvalue2",
+            "m.testcontext1" 	 : "testcontext1",
+            "nick.game"		 : "nickgamecontext"
         }
 	}
 ]
