@@ -11,8 +11,8 @@
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
 		"admsContextData"   : {
-			"contextDataKey1"    : "testcontextvalue1",
-			"contextDataKey2"    : "testcontextvalue2"
+			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
+			"contextDataKey2onconfig"    : "testcontextvalue2onconfig"
 		}
 	}
 ]
