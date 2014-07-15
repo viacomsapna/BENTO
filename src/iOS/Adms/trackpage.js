@@ -16,8 +16,8 @@
         "eVar300"    : "remote value of evar 300",
         "channel"  : "remote sandbox channel",
         "contextData"   : {
-            "contextDataKey1"    : "testcontextvalue1",
-            "contextDataKey2"    : "testcontextvalue2",
+            "contextDataKey1trackpage"    : "testcontextvalue1trackpage",
+            "contextDataKey2trackpage"    : "testcontextvalue2trackpage",
             "m.testcontext1" 	 : "testcontext1",
             "nick.game"		 : "nickgamecontext"
         }
