@@ -1,7 +1,7 @@
 [
 	{
 		"config" : {
-			"isCoppaCompliant" : true,
+			"isCoppaCompliant" : false,
 			"audienceManagerEnabled" : false,
 		},
 		"adData" : {
@@ -17,7 +17,7 @@
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
 			"keyValues" : {
-				"excl_cat" : "test_excl",
+				"!category" : "cattest_excl",
 				"ver"   : "v2.0",
 				"testmode" : "celtra_mobile_300x250"
 			},
