@@ -12,7 +12,8 @@
 		"admsOfflineTrackingEnabled" : true,
 		"admsContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
-			"contextDataKey2onconfig"    : "testcontextvalue2onconfig"
+			"contextDataKey2onconfig"    : "testcontextvalue2onconfig",
+			"contextDataKey1trackpage"    : "testcontextvalue1onconfig"
 		}
 	}
 ]
