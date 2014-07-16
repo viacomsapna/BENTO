@@ -10,7 +10,6 @@
 		"admsVisitorID" : "",
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
-		"prop13"    : "remote value of prop 11 onconfig",
 		"admsContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
 			"contextDataKey2onconfig"    : "testcontextvalue2onconfig"
