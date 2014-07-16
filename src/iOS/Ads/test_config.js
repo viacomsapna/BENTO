@@ -25,7 +25,7 @@
 			},
 			"dfpData" : {
 				"metadata" : {
-					"property" : "mtv_news",
+					"property" : "nick",
 					"hub" : "breaking",
 					"is_main" : true
 				},
