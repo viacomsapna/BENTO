@@ -10,7 +10,7 @@
 			"width" : 300,
 			"height" : 250,
 			"appName" : "btg_test_app",
-			"sections" : "",
+			"sections" : "/test/mobile300-250",
 			"isDFP" : false,
 			"enableCloseButton" : false,
 			"closeButtonInterval" : 5,
