@@ -17,7 +17,7 @@
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
 			"keyValues" : {
-				"!category" : "cattest_excl",
+				"!category" : "home",
 				"ver"   : "v2.0",
 				"testmode" : "celtra_mobile_300x250"
 			},
