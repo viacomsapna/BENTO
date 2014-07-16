@@ -1,7 +1,7 @@
 [
 	{
 		"config" : {
-			"isCoppaCompliant" : false
+			"isCoppaCompliant" : true
 		},
 		"adData" : {
 			"x" : 0,
