@@ -38,7 +38,7 @@
 					"ad-unit" : {
 						"1" : "@property",
 						"2" : "@hub"
-					}
+					},
 					"key-values": {
             					"sea": "@season",
             					"ep": "@episode",
