@@ -3,8 +3,8 @@
 		"doubleclickEnabled":"true",
 		"doubleClickStaticAdAppId":"android_test_app",
 		"doubleclickUseExternalBrowser":false,
-		"doubleClickStaticAdIsCoppaCompliant":false,
+		"doubleClickStaticAdIsCoppaCompliant":true,
 		"doubleClickAdIndicatorVisible":false,
-		"doubleClickUseBumper":true
+		"doubleClickUseBumper":false
 	}
 ]
