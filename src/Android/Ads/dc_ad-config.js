@@ -4,7 +4,7 @@
 		"doubleClickStaticAdAppId":"android_test_app",
 		"doubleclickUseExternalBrowser":false,
 		"doubleClickStaticAdIsCoppaCompliant":false,
-		"doubleClickAdIndicatorVisible":true,
+		"doubleClickAdIndicatorVisible":false,
 		"doubleClickUseBumper":true
 	}
 ]
