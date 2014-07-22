@@ -15,11 +15,12 @@
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
+			"slot" : 1,
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmode" : "dap_celtra_mraid_300x250_expand",
-				"slot" : 1
+				"testmode" : "dap_celtra_mraid_300x250_expand"
+			
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
