@@ -18,7 +18,8 @@
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
-				"testmode" : "dap_celtra_mraid_300x250_expand"
+				"testmode" : "dap_celtra_mraid_300x250_expand",
+				"slot" : 1
 			},
 			"keychainKeyValues" : {
 				"aamSegments" : ""
