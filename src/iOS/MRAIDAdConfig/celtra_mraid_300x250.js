@@ -16,8 +16,8 @@
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
 			"keyValues" : {
-				"!category" : "v1.2.3",
-				"ver"   : "v1.2.3",
+				"!category" : "v1.3.1",
+				"ver"   : "v1.3.1",
 				"testmode" : "dap_celtra_mraid_300x250_expand"
 			
 			},
