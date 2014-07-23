@@ -17,7 +17,7 @@
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
 			"keyValues" : {
-				"testkey"   : "key2.0",
+				"testkey"   : "key2.1",
 				"testmode" : "celtra_mobile_300x250"
 			},
 			"keychainKeyValues" : {
