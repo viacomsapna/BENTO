@@ -16,6 +16,7 @@
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
+			"slot" : 1,
 			"keyValues" : {
 				"testkey"   : "key2.0",
 				"testmode" : "celtra_mobile_300x250"
