@@ -15,7 +15,7 @@
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
-			"slot" : "test",
+			"slot" : 1,
 			"keyValues" : {
 				"!category" : "version1.3.1",
 				"ver"   : "testversion1",
