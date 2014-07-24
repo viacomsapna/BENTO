@@ -3,7 +3,7 @@
 		"admsMeasureEnabled" : true,
 		"admsReportSuiteIDs"   : "viarnd",
 		"admsCharacterSet" : "ISO-8859-1",
-		"admsCurrencyCode" : "USD",
+		"admsCurrencyCode" : "USDD",
 		"admsSslEnabled" : false,
 		"admsLifecycleSessionTimeout" : 300,
 		"admsTrackingServer" : "sc.mtv.com",
@@ -11,8 +11,9 @@
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
 		"admsContextData"   : {
-			"contextDataKey1"    : "testcontextvalue1",
-			"contextDataKey2"    : "testcontextvalue2"
+			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
+			"contextDataKey2onconfig"    : "testcontextvalue2onconfig",
+			"contextDataKey1trackpage"    : "testcontextvalue1onconfig"
 		}
 	}
 ]

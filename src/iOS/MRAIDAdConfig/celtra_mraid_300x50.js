@@ -15,9 +15,10 @@
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
+			"slot" : "test",
 			"keyValues" : {
-				"!category" : "v1.2.3",
-				"ver"   : "v1.2.3",
+				"!category" : "version1.3.1",
+				"ver"   : "testversion1",
 				"testmode" : "dap_celtra_mraid_300x50_expand"
 			},
 			"keychainKeyValues" : {
