@@ -13,7 +13,7 @@
         "eVar75"    : "remote value of evar 75",
         "eVar76"    : "remote value of evar 76",
         "eVar74"    : "remote value of evar 74",
-        "eVar111"    : "remote value of evar 111",
+        "eVar111"    : "remote value of evar 111"
         "eVar300"    : "remote value of evar 300",
         "contextData"   : {
             "m.contextDataKey1"    : "testcontextvalue1",
