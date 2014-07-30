@@ -7,7 +7,7 @@
 "doubleclickDfpData":
 {
     "metadata": {
-        "property": "mtv",
+        "property": "nick",
         "hub": "shows",
         "franchise": "Teen Mom 2",
         "section": "full-episodes",
