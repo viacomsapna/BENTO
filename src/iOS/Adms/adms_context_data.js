@@ -3,14 +3,14 @@
 		"admsMeasureEnabled" : true,
 		"admsReportSuiteIDs"   : "viarnd",
 		"admsCharacterSet" : "ISO-8859-1",
-		"admsCurrencyCode" : "USDD",
+		"admsCurrencyCode" : "USD",
 		"admsSslEnabled" : false,
 		"admsLifecycleSessionTimeout" : 300,
 		"admsTrackingServer" : "sc.mtv.com",
 		"admsVisitorID" : "",
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
-		"audienceManagerEnabled": true,
+		"audienceManagerEnabled" : true
 		"ContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
 			"contextDataKey2onconfig"    : "testcontextvalue2onconfig",
