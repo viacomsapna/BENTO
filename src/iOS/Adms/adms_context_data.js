@@ -10,7 +10,7 @@
 		"admsVisitorID" : "",
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
-		"admsContextData"   : {
+		"ContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
 			"contextDataKey2onconfig"    : "testcontextvalue2onconfig",
 			"contextDataKey1trackpage"    : "testcontextvalue1onconfig"
