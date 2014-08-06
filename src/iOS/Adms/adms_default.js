@@ -1,6 +1,5 @@
 [
     {
-        "audienceManagerEnabled": false,
         "admsMeasureEnabled" : true,
         "admsReportSuiteIDs"   : "viarndtest",
         "omnitureChannel" : "Bento TestRig Channel test",
@@ -12,6 +11,7 @@
         "admsVisitorID" : "",
         "admsxDebugLoggingEnabled" : true,
         "admsOfflineTrackingEnabled" : true,
+        "auidenceManagerEnabled" : true
         "linkName" : "dev/bento/remote/link",
         "prop1"    : "remote value of prop 1",
         "pageName" : "dev/bento/remote/testrig",
@@ -27,7 +27,7 @@
         "eVar111"    : "remote value of evar 111",
         "eVar300"    : "remote value of evar 300",
         "channel"  : "remote sandbox channel",
-        "contextData"   : {
+        "admsContextData"   : {
             "contextDataKey1"    : "testcontextvalue1",
             "contextDataKey2"    : "testcontextvalue2"
         }
