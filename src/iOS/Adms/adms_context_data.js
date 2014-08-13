@@ -1,7 +1,7 @@
 [
 	{
 		"admsMeasureEnabled" : true,
-		"admsReportSuiteIDs"   : "viarndtest",
+		"admsReportSuiteIDs"   : "viarndtest1, test2",
 		"admsCharacterSet" : "ISO-8859-1",
 		"admsCurrencyCode" : "USDtest",
 		"admsSslEnabled" : false,
