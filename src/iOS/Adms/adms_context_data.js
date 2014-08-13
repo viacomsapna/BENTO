@@ -1,12 +1,12 @@
 [
 	{
 		"admsMeasureEnabled" : true,
-		"admsReportSuiteIDs"   : "viarndtest1,test2",
+		"admsReportSuiteIDs"   : "viarnd",
 		"admsCharacterSet" : "ISO-8859-1",
 		"admsCurrencyCode" : "USDtest",
-		"admsSslEnabled" : false,
+		"admsSslEnabled" : true,
 		"admsLifecycleSessionTimeout" : 300,
-		"admsTrackingServer" : "sctest.mtv.com",
+		"admsTrackingServer" : "sc.mtv.com",
 		"admsVisitorID" : "testVID",
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
