@@ -7,7 +7,7 @@
 		"admsSslEnabled" : false,
 		"admsLifecycleSessionTimeout" : 300,
 		"admsTrackingServer" : "sctest.mtv.com",
-		"admsVisitorID" : "",
+		"admsVisitorID" : "testVID",
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
 		"audienceManagerEnabled" : true,
