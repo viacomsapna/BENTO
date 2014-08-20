@@ -5,6 +5,7 @@
 		"doubleclickUseExternalBrowser":false,
 		"doubleClickStaticAdIsCoppaCompliant":false,
 		"doubleClickAdIndicatorVisible":false,
-		"doubleClickUseBumper":false
+		"doubleClickUseBumper":false,
+		"audienceManagerEnabled":true
 	}
 ]
