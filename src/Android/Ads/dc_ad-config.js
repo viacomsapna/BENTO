@@ -6,9 +6,9 @@
 		"doubleclickEnabled":true,
 		"doubleClickStaticAdAppId":"android_test_app",
 		"doubleclickUseExternalBrowser":false,
-		"doubleClickStaticAdIsCoppaCompliant":false,
-		"doubleClickAdIndicatorVisible":false,
-		"doubleClickUseBumper":false,
+		"doubleClickStaticAdIsCoppaCompliant":true,
+		"doubleClickAdIndicatorVisible":true,
+		"doubleClickUseBumper":true,
 		"audienceManagerEnabled":true
 	}
 ]
