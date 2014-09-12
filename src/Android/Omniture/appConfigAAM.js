@@ -1,3 +1,4 @@
+
 [
 	{
 		"audienceManagerEnabled" : "true",
@@ -16,6 +17,8 @@
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
 		"omnitureContextData" : {"v.dummyContext1":"1","v.dummyContext2":"2"},
-		"omnitureTimetrackingEnabled" : "true"
+		"omnitureTimetrackingEnabled" : "true",
+		"appIsCoppaCompliant" : "true"
 	}
 ]
+
