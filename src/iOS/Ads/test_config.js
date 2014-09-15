@@ -31,7 +31,7 @@
 					  "hub": "shows",
 					  "franchise": "Teen Mom 2",
         				  "section": "full-episodes",
-					  "title": "A Teen Mom Gets Pregnant.",
+					  "title": "a-teen-mom-gets-pregnant.",
         				  "is_main": true,
 					  "season": 2,
         				  "episode": "202"
