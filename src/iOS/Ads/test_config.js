@@ -16,7 +16,7 @@
 			"enableCloseButton" : true,
 			"closeButtonInterval" : 5,
 			"isRefreshable" : true,
-			"refreshInterval" : 12000,
+			"refreshInterval" : 10,
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
