@@ -15,7 +15,7 @@
 			"enableCloseButton" : false,
 			"closeButtonInterval" : 5,
 			"isRefreshable" : true,
-			"refreshInterval" : 12000,
+			"refreshInterval" : 10,
 			"slot" : 1,
 			"keyValues" : {
 				"testkey"   : "key2.1",
