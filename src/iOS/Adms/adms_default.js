@@ -11,7 +11,7 @@
         "admsVisitorID" : "",
         "admsxDebugLoggingEnabled" : true,
         "admsOfflineTrackingEnabled" : true,
-        "auidenceManagerEnabled" : true
+        "auidenceManagerEnabled" : true,
         "linkName" : "dev/bento/remote/link",
         "prop1"    : "remote value of prop 1",
         "pageName" : "dev/bento/remote/testrig",
