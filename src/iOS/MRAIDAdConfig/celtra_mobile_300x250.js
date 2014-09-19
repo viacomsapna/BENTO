@@ -14,8 +14,8 @@
 			"isDFP" : false,
 			"enableCloseButton" : false,
 			"closeButtonInterval" : 5,
-			"isRefreshable" : false,
-			"refreshInterval" : 10,
+			"isRefreshable" : true,
+			"refreshInterval" : 12000,
 			"slot" : 1,
 			"keyValues" : {
 				"testkey"   : "key2.1",
