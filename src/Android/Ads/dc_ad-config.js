@@ -9,6 +9,7 @@
 		"doubleClickStaticAdIsCoppaCompliant":true,
 		"doubleClickAdIndicatorVisible":true,
 		"doubleClickUseBumper":true,
-		"audienceManagerEnabled":true
+		"audienceManagerEnabled":true,
+		"doubleClickStaticAdIsCoppaCompliant": false
 	}
 ]
