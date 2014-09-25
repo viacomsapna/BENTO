@@ -1,5 +1,6 @@
 [
 	{
+		"audienceManagerEnabled" : "false",
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "Bento TestRig Channel",
