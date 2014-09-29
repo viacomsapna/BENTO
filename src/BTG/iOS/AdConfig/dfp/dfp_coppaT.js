@@ -23,7 +23,7 @@
 				{
 				"adWidth" : 200,
 				"adHeight" : 100,
-				},
+				}
 			},
 			"keyValues" : {
 				"!category" : "v1.2.3",
