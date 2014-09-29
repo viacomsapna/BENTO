@@ -9,7 +9,7 @@
 			"x" : 0,
 			"y"   : 0,
 			"width" : 300,
-			"height" : 250,
+			"height" : 50,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : true,
@@ -21,10 +21,6 @@
 					{
 					"adWidth" : 728,
 					"adHeight" : 90
-					},
-					{
-					"adWidth" : 200,
-					"adHeight" : 100
 					}
 			],
 			"keyValues" : {
