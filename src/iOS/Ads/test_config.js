@@ -17,6 +17,16 @@
 			"closeButtonInterval" : 5,
 			"isRefreshable" : true,
 			"refreshInterval" : 10,
+			"alternativeSizes" : [
+					{
+					"adWidth" : 300,
+					"adHeight" : 50,
+					},
+					{
+					"adWidth" : 200,
+					"adHeight" : 100,
+					}
+			],
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
