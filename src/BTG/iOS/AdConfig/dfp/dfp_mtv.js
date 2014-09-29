@@ -17,6 +17,8 @@
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
 			"refreshInterval" : 12000,
+			"enableDefaultBumper" : true,
+			"enableCoppaAdBanner" : true,
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
