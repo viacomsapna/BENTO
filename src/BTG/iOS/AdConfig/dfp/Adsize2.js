@@ -19,8 +19,8 @@
 			"refreshInterval" : 10,
 			"alternativeSizes" : [
 					{
-					"adWidth" : 728,
-					"adHeight" : 90
+					"adWidth" : 300,
+					"adHeight" : 250
 					}
 			],
 			"keyValues" : {
