@@ -1,7 +1,8 @@
 [
 	{
 		"config" : {
-			"isCoppaCompliant" : false
+			"isCoppaCompliant" : false,
+			"audienceManagerEnabled": true
 		},
 		"adData" : {
 			"x" : 0,
@@ -15,6 +16,8 @@
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
+			"enableDefaultBumper" : true,
+			"enableCoppaAdBanner" : true,
 			"keyValues" : {
 				"!category" : "v1.2.3",
 				"ver"   : "v1.2.3",
