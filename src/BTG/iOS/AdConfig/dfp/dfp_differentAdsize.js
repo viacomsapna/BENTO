@@ -24,7 +24,7 @@
 					},
 					{
 					"adWidth" : 200,
-					"adHeight" : 100,
+					"adHeight" : 100
 					}
 			],
 			"keyValues" : {
