@@ -16,6 +16,8 @@
 			"closeButtonInterval" : 5,
 			"isRefreshable" : false,
 			"refreshInterval" : 10,
+			"enableDefaultBumper" : true,
+			"enableCoppaAdBanner" : true,
 			"alternativeSizes" : [
 				{
 				"adWidth" : 300,
