@@ -24,9 +24,6 @@
 				"ver"   : "v1.2.3",
 				"testmodePrefix" : "medialets_mraid"
 			},
-			"keychainKeyValues" : {
-				"aamSegments" : ""
-			},
 			"dfpData" : {
 				"metadata" : {
 					  "property": "mtv",
