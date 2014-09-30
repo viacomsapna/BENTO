@@ -31,8 +31,8 @@
 			},
 			"dfpData" : {
 				"metadata" : {
-					"property" : "mtv_news",
-					"hub" : "breaking",
+					"property" : "mtv",
+					"hub" : "shows",
 					"is_main" : true
 				},
 				"mappings" : {
