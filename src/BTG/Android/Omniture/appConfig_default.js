@@ -18,6 +18,6 @@
 		"omnitureTimetrackingEnabled" : "true",
 		"appIsCoppaCompliant" : "false"
     	}
-];
+]
 
 
