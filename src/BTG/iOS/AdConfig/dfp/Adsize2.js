@@ -20,7 +20,7 @@
 			"alternativeSizes" : [
 					{
 					"adWidth" : 300,
-					"adHeight" : 250
+					"adHeight" : 50
 					}
 			],
 			"keyValues" : {
