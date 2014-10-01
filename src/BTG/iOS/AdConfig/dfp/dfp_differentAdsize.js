@@ -9,7 +9,7 @@
 			"x" : 0,
 			"y"   : 0,
 			"width" : 300,
-			"height" : 50,
+			"height" : 250,
 			"appName" : "btg_test_app",
 			"sections" : "",
 			"isDFP" : true,
@@ -21,8 +21,12 @@
 			"enableCoppaAdBanner" : true,
 			"alternativeSizes" : [
 					{
-					"adWidth" : 728,
-					"adHeight" : 90
+					"adWidth" : 300,
+					"adHeight" : 50
+					},
+										{
+					"adWidth" : 200,
+					"adHeight" : 100
 					}
 			],
 			"keyValues" : {
