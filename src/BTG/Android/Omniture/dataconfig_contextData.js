@@ -1,7 +1,7 @@
 [
 	{
 		"linkName" : "dev/bento/link",
-		"pageName" : "dev/bento/remote/testrig",
+		"pageName" : "fetchAAMTestPageName",
 		"channel"  : "remote sandbox channel",
 		"prop1"    : "remote value of prop 1",
         "prop11"    : "remote value of prop 11",
