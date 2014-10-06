@@ -2,7 +2,7 @@
 	{
 		"linkName" : "dev/bento/link",
 		"pageName" : "dev/bento/testrig",
-		"channel"  : "remote sandbox channel",
+		"channel"  : "remote sandbox channel-test",
 		"prop1"    : "remote value of prop 1",
         "prop11"    : "remote value of prop 11",
         "prop74"    : "remote value of prop 74",
