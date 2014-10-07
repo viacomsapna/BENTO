@@ -4,6 +4,7 @@
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "TestChannel",
+		"channel": "TestNew",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "EUR",
 		"omnitureSSL" : "false",
