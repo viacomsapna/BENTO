@@ -16,9 +16,10 @@
         "eVar111"    : "remote value of evar 111",
         "eVar300"    : "remote value of evar 300",
         "contextData"   : {
-            "m.contextDataKey1"    : "testcontextvalue1",
-            "contextDataKey2"    : "testcontextvalue2",
-	    	"v.contextDataKey3" : "testcontextvalue3"
+			"contextDataKey1trackpage" : "testcontextvalue1trackpage",
+			"contextDataKey2trackpage" : "testcontextvalue2trackpage",
+			"m.testcontext1" : "testcontext1",
+			"nick.game"	: "nickgamecontext"
         }
 	}
 ]
