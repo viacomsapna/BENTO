@@ -11,6 +11,12 @@
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
-		"omnitureOfflineHitLimit" : "20"
+		"omnitureOfflineHitLimit" : "20",
+		"comScoreEnabled" : "true",
+		"TVEEnabled" : "true",
+		"TVERequestorID" : "NICK",
+		"TVEChannelID" : "NICK",
+		"TVEBrand" : "nick",
+		"TVEEnvironment" : "development"
     	}
 ];
