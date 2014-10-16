@@ -12,7 +12,8 @@
 			"admsTrackingServer" : "sc.mtv.com",
 			"admsVisitorID" : "testVID",
 			"admsDebugLoggingEnabled" : true,
-			"admsOfflineTrackingEnabled" : true
+			"admsOfflineTrackingEnabled" : true,
+			"comscoreEnabled" : true
 	
 		},
 		"adData" : {
