@@ -12,6 +12,7 @@
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
 		"omnitureOfflineHitLimit" : "20",
+		"comScoreEnabled" : "true",
 		"TVEEnabled" : "true",
 		"TVERequestorID" : "NICK",
 		"TVEChannelID" : "NICK",
