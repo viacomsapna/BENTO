@@ -11,7 +11,6 @@
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
 		"audienceManagerEnabled" : true,
-		"comscoreEnabled" : false,
 		"admsContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
 			"contextDataKey2onconfig"    : "testcontextvalue2onconfig",
