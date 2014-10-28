@@ -20,7 +20,7 @@
 			"alternativeSizes" : [
 					{
 					"adWidth" : 300,
-					"adHeight" : 50,
+					"adHeight" : 50
 					}
 					{
 					"adWidth" : 200,
