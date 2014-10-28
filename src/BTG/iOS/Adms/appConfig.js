@@ -10,6 +10,7 @@
 		"admsVisitorID" : "",
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
-		"audienceManagerEnabled" : true
+		"audienceManagerEnabled" : true,
+		"comscoreEnabled" : false
 	}
 ]
