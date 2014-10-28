@@ -11,6 +11,6 @@
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
 		"audienceManagerEnabled" : true,
-		"comscoreEnabled" : true
+		"comscoreEnabled" : false
 	}
 ]
