@@ -21,9 +21,6 @@
 				"ver"   : "testversion1",
 				"testmode" : "dap_celtra_mraid_300x50_expand"
 			},
-			"keychainKeyValues" : {
-				"aamSegments" : ""
-			},
 			"dfpData" : {
 				"metadata" : {
 					"property" : "mtv_news",

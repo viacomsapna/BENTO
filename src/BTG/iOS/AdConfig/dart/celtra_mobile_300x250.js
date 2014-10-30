@@ -21,9 +21,6 @@
 				"testkey"   : "key2.1",
 				"testmode" : "celtra_mobile_300x250"
 			},
-			"keychainKeyValues" : {
-				"aamSegments" : ""
-			},
 			"dfpData" : {
 				"metadata" : {
 					"property" : "mtv_news",
