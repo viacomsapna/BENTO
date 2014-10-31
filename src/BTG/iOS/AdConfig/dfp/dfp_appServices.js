@@ -13,7 +13,7 @@
 			"admsVisitorID" : "testVID",
 			"admsDebugLoggingEnabled" : true,
 			"admsOfflineTrackingEnabled" : true,
-			"comscoreEnabled" : true
+			"comScoreEnabled" : true
 	
 		},
 		"adData" : {
