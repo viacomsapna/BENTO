@@ -23,9 +23,6 @@
 				"ver"   : "v1.2.3",
 				"testmodePrefix" : "celtra_mraid"
 			},
-			"keychainKeyValues" : {
-				"aamSegments" : ""
-			},
 			"dfpData" : {
 				"metadata" : {
 					"property" : "nick",
