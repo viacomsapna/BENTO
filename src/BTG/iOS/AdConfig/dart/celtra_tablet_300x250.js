@@ -20,9 +20,6 @@
 				"ver"   : "v1.2.3",
 				"testmode" : "celtra_tablet_300x250"
 			},
-			"keychainKeyValues" : {
-				"aamSegments" : ""
-			},
 			"dfpData" : {
 				"metadata" : {
 					"property" : "mtv_news",
