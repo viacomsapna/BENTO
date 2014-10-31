@@ -2,7 +2,8 @@
 	{
 		"config" : {
 			"isCoppaCompliant" : false,
-			"audienceManagerEnabled": true
+			"audienceManagerEnabled": true,
+			"comScoreEnabled" : true
 		},
 		"adData" : {
 			"x" : 0,
