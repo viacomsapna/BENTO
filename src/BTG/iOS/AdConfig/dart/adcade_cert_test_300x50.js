@@ -20,9 +20,6 @@
 				"ver"   : "v1.2.3",
 				"testmode" : "adcade_cert_test_300x50"
 			},
-			"keychainKeyValues" : {
-				"aamSegments" : ""
-			},
 			"dfpData" : {
 				"metadata" : {
 					"property" : "mtv_news",
