@@ -13,7 +13,6 @@
 		"audienceManagerEnabled" : true,
 		"comScoreEnabled" : true,
 		"channel" : "remote sandbox channel",
-		"pageName" : "dev/bento/remote/testrig",
 		"admsContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
 			"contextDataKey2onconfig"    : "testcontextvalue2onconfig",
