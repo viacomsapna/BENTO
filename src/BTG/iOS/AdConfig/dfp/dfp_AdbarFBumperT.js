@@ -25,14 +25,21 @@
 			},
 			"dfpData" : {
 				"metadata" : {
-					"property" : "mtv_news",
-					"hub" : "breaking",
-					"is_main" : true
+					"property" : "mtv",
+					"hub" : "shows",
+					"is_main" : true,
+					"season": 2,
+					"episode": "202"
 				},
 				"mappings" : {
 					"ad-unit" : {
 						"1" : "@property",
 						"2" : "@hub"
+					},
+				"key-values": {
+					"sea": "@season",
+					"ep": "@episode",
+					"foo": "bar"
 					}
 				}		        	
 			}
