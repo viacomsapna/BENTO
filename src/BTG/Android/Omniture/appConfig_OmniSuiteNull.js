@@ -5,7 +5,7 @@
 		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "TestChannel",
 		"omnitureCharSet" : "ISO-8859-1",
-		"omnitureCurrencyCode" : "",
+		"omnitureCurrencyCode" : "Rupee",
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
 		"omnitureTrackingServer" : "",
