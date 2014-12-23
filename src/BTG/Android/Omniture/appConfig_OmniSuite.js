@@ -7,7 +7,7 @@
 		"omnitureChannel" : "Test Rig Channel",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
-		"omnitureSSL" : false,
+		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
 		"omnitureTrackingServer" : "sc.mtv.com",
 		"omnitureVisitorID" : "123456",
