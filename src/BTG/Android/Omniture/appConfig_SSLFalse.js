@@ -6,7 +6,7 @@
 		"omnitureChannel" : "TestChannel",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
-		"omnitureSSL" : "true",
+		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
 		"omnitureTrackingServer" : "sc.mtv.com",
 		"omnitureVisitorID" : "123456",
