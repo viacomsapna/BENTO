@@ -5,7 +5,7 @@
 		"omnitureTrackingServer" : "sc.mtv.com",
 		"doubleclickEnabled":true,
 		"doubleClickStaticAdAppId":"android_test_app",
-		"doubleclickUseExternalBrowser":false,
+		"doubleclickUseExternalBrowser":true,
 		"doubleClickStaticAdIsCoppaCompliant":false,
 		"doubleClickAdIndicatorVisible":true,
 		"doubleClickUseBumper":true,
