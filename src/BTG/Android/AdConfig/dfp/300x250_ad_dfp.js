@@ -1,6 +1,6 @@
 [
     {
-	"doubleclickKeyValues":"",
+	"doubleclickKeyValues":"mykey=MykeyVaule",
 	"doubleclickAdSize":"728x90",
 	"doubleclickIsDfp":true,
 	"doubleclickSlotNumber":2,
