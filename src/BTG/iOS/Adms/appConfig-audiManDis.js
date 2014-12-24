@@ -10,7 +10,7 @@
 		"admsVisitorID" : "testVID",
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
-		"audienceManagerEnabled" : false,
+		"audienceManagerEnabled" : true,
 		"comScoreEnabled" : true,
 		"admsContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
